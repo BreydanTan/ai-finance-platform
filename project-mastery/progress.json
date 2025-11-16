@@ -1,6 +1,6 @@
 {
-  "lastUpdated": "2025-11-16T01:00:00Z",
-  "currentPhase": "specifications",
+  "lastUpdated": "2025-11-16T08:30:00Z",
+  "currentPhase": "completed",
   "completedPhases": [
     "project-overview",
     "database-analysis",
@@ -8,12 +8,14 @@
     "security-analysis",
     "frontend-analysis",
     "deployment-analysis",
-    "rebuild-prompts"
+    "rebuild-prompts",
+    "specifications",
+    "teaching-guide-core"
   ],
-  "nextPhase": "teaching-guide",
+  "nextPhase": "teaching-guide-additional",
   "filesAnalyzed": 64,
   "totalFiles": 64,
-  "percentComplete": 70,
+  "percentComplete": 85,
   "language": "both",
   "analysisStarted": "2025-11-15T14:21:00Z",
   "projectName": "AI Finance Platform (Welth)",
@@ -26,6 +28,14 @@
     "analysis/04-security-analysis.md",
     "analysis/05-deployment-analysis.md",
     "analysis/prompts-generated/01-foundation-prompts.md",
-    "analysis/prompts-generated/02-complete-rebuild-prompts.md"
-  ]
+    "analysis/prompts-generated/02-complete-rebuild-prompts.md",
+    "specifications/PROJECT_SPEC_CN.md",
+    "teaching-guide/00-learning-overview.md",
+    "teaching-guide/01-architecture-visuals.md"
+  ],
+  "summary": {
+    "totalDocuments": 11,
+    "totalWords": "~100,000",
+    "coverage": "完整的项目分析、规格文档和学习指南框架"
+  }
 }
